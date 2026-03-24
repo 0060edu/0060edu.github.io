@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#9333EA" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <text x="600" y="290" font-family="system-ui, -apple-system, sans-serif" font-size="100" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">易马学习</text>
+  <text x="600" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="40" font-weight="500" fill="#e5e7eb" text-anchor="middle" dominant-baseline="middle">专为您打造的中文与马来文双语学习平台</text>
+  <text x="600" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#d8b4fe" text-anchor="middle" dominant-baseline="middle">xuexi.0060.my</text>
+</svg>

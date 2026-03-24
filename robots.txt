@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xuexi.0060.my/sitemap.xml
